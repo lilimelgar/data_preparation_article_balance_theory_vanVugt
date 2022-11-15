@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/566390340.svg)](https://zenodo.org/badge/latestdoi/566390340)
+
 # Introduction
 
 This repository contains the code and data necessary to reproduce results published in the article "Unlinked: Conflict Management and Structural Balance in the Early Modern Republic of Letters" (DOI paper forthcoming). This paper is authored by Ingeborg van Vugt (https://orcid.org/0000-0002-7703-1791). The data preparation steps for that article were done in collaboration with Liliana Melgar-Estrada (https://orcid.org/0000-0003-2003-4200) during the SKILLNET project, who created this Jupyter notebook to facilitate reproducibility of the results.
